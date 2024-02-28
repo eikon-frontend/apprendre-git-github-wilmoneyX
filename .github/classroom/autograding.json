@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "verify",
+      "setup": "npm install",
+      "run": "npm run ci",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
